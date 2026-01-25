@@ -2,7 +2,7 @@
 
 void toh(int n, char src, char aux, char dest);
 
-int main()
+int main() 
 {
     int n;
 
