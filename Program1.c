@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define MAX 100
 
-int a[MAX], n; printf("/n");
+int a[MAX], n;
 
 
 void create();
