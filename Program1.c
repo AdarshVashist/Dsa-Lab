@@ -3,7 +3,7 @@
 
 int a[MAX], n;
 
- printf("/n");
+
 void create();
 void display();
 void insert();
