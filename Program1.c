@@ -120,4 +120,5 @@ void delete()
 
     n--;
     printf("\nElement deleted successfully!");
+    printf("/n");
 }
