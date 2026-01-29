@@ -9,7 +9,7 @@ void display();
 void insert();
 void delete();
 
-int main()
+int main() 
 {
     int choice;
 
