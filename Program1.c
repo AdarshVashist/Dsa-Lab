@@ -5,7 +5,7 @@ int a[MAX], n;
 
 
 void create();
-void display();
+void display();    
 void insert();   
 void delete();
            
